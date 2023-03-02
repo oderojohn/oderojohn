@@ -1,41 +1,19 @@
-from tkinter import *
-class lecture_window:
-    def __init__(self,root):
-        self.root=root
-        self.root.geometry("1350x700+0+0")
-        self.root.title("cording  software")
-        self.root.resizable(False,False)
-        bg_color="magenta"
-        #colors;magenta
-        bcolor="black"
-        Ccolor="white"  
-        F1=Label(self.root,text="class managment software for cording",font=("times new roman",30,"bold"),fg="white",bg=bg_color,)
-        F1.place(x=10,y=0,width=1330,height=45) 
-        Label(F1,text="search for registered student").grid(row=0,column=0)
-        Button(F1,text="search").grid(column=2,row=0)
-        adm=Entry(F1,width="20",).grid(column=1,row=0) 
-        F2=LabelFrame(self.root,text="REGISTERED STUDENTS ",font=("times new roman",15,"bold"),fg="white",bg=bg_color,)
-        F2.place(x=10,y=50,width=300,height=575)
-        F3=LabelFrame(self.root,text="UPDATED SCREENSHORT",font=("times new roman",15,"bold"),fg="white",bg=bg_color,)
-        F3.place(x=315,y=50,width=1025,height=400)
-        F4=LabelFrame(self.root,text="STUDENT DETAILS",font=("times new roman",15,"bold"),fg="white",bg=bcolor,)
-        F4.place(x=315,y=465,width=1025,height=160)
-        F5=Label(self.root,text="This software was created by odero,opondo & owino in eldoret comp technology solution on 4th  june 2022 .all right reserved ,and the copy right is owned  by the company. contact Email:john.odero26@gmail.com   ",font=("times new roman",11),fg="black",bg=Ccolor,)
-        F5.place(x=10,y=630,width=1330,height=45)
-        
-    
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Odero
+==================================================================================================================================
+Software developer, Python developer
+* 🌍  I'm based in Nairobi
+* 🧠  I'm learning Python
+
+### Skills
 
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
 
+### Socials<p align="left"> <a href="https://www.github.com/oderojohn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
+### Badges
 
+<b>My GitHub Stats</b>
 
-
-
-
-
-
-
-root=Tk()
-obj = lecture_window(root)
-root.mainloop()
+<a href="http://www.github.com/oderojohn"><img src="https://github-readme-stats.vercel.app/api?username=oderojohn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oderojohn's GitHub stats" /></a>
