@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 Software developer, Python developer
 * 🌍  I'm based in Nairobi
+* 🌍  I'm a web developer (react js)
 * 🧠  I'm learning Python
 
 ### Skills
